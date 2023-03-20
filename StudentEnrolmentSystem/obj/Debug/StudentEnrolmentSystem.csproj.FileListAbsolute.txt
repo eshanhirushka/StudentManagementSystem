@@ -1,0 +1,24 @@
+C:\Users\Eshan Hirushka\source\repos\StudentEnrolmentSystem\StudentEnrolmentSystem\bin\Debug\Database.mdf
+C:\Users\Eshan Hirushka\source\repos\StudentEnrolmentSystem\StudentEnrolmentSystem\bin\Debug\Database_log.ldf
+C:\Users\Eshan Hirushka\source\repos\StudentEnrolmentSystem\StudentEnrolmentSystem\bin\Debug\StudentEnrolmentSystem.exe.config
+C:\Users\Eshan Hirushka\source\repos\StudentEnrolmentSystem\StudentEnrolmentSystem\bin\Debug\StudentEnrolmentSystem.exe
+C:\Users\Eshan Hirushka\source\repos\StudentEnrolmentSystem\StudentEnrolmentSystem\bin\Debug\StudentEnrolmentSystem.pdb
+C:\Users\Eshan Hirushka\source\repos\StudentEnrolmentSystem\StudentEnrolmentSystem\obj\Debug\StudentEnrolmentSystem.Form1.resources
+C:\Users\Eshan Hirushka\source\repos\StudentEnrolmentSystem\StudentEnrolmentSystem\obj\Debug\StudentEnrolmentSystem.Properties.Resources.resources
+C:\Users\Eshan Hirushka\source\repos\StudentEnrolmentSystem\StudentEnrolmentSystem\obj\Debug\StudentEnrolmentSystem.csproj.GenerateResource.cache
+C:\Users\Eshan Hirushka\source\repos\StudentEnrolmentSystem\StudentEnrolmentSystem\obj\Debug\StudentEnrolmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Eshan Hirushka\source\repos\StudentEnrolmentSystem\StudentEnrolmentSystem\obj\Debug\StudentEnrolmentSystem.exe
+C:\Users\Eshan Hirushka\source\repos\StudentEnrolmentSystem\StudentEnrolmentSystem\obj\Debug\StudentEnrolmentSystem.pdb
+C:\Users\Eshan Hirushka\source\repos\StudentEnrolmentSystem\StudentEnrolmentSystem\obj\Debug\StudentEnrolmentSystem.csproj.AssemblyReference.cache
+C:\Users\Eshan Hirushka\Desktop\New folder (2)\StudentEnrolmentSystem\StudentEnrolmentSystem\bin\Debug\Database.mdf
+C:\Users\Eshan Hirushka\Desktop\New folder (2)\StudentEnrolmentSystem\StudentEnrolmentSystem\bin\Debug\Database_log.ldf
+C:\Users\Eshan Hirushka\Desktop\New folder (2)\StudentEnrolmentSystem\StudentEnrolmentSystem\bin\Debug\StudentEnrolmentSystem.exe.config
+C:\Users\Eshan Hirushka\Desktop\New folder (2)\StudentEnrolmentSystem\StudentEnrolmentSystem\bin\Debug\StudentEnrolmentSystem.exe
+C:\Users\Eshan Hirushka\Desktop\New folder (2)\StudentEnrolmentSystem\StudentEnrolmentSystem\bin\Debug\StudentEnrolmentSystem.pdb
+C:\Users\Eshan Hirushka\Desktop\New folder (2)\StudentEnrolmentSystem\StudentEnrolmentSystem\obj\Debug\StudentEnrolmentSystem.csproj.AssemblyReference.cache
+C:\Users\Eshan Hirushka\Desktop\New folder (2)\StudentEnrolmentSystem\StudentEnrolmentSystem\obj\Debug\StudentEnrolmentSystem.Form1.resources
+C:\Users\Eshan Hirushka\Desktop\New folder (2)\StudentEnrolmentSystem\StudentEnrolmentSystem\obj\Debug\StudentEnrolmentSystem.Properties.Resources.resources
+C:\Users\Eshan Hirushka\Desktop\New folder (2)\StudentEnrolmentSystem\StudentEnrolmentSystem\obj\Debug\StudentEnrolmentSystem.csproj.GenerateResource.cache
+C:\Users\Eshan Hirushka\Desktop\New folder (2)\StudentEnrolmentSystem\StudentEnrolmentSystem\obj\Debug\StudentEnrolmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Eshan Hirushka\Desktop\New folder (2)\StudentEnrolmentSystem\StudentEnrolmentSystem\obj\Debug\StudentEnrolmentSystem.exe
+C:\Users\Eshan Hirushka\Desktop\New folder (2)\StudentEnrolmentSystem\StudentEnrolmentSystem\obj\Debug\StudentEnrolmentSystem.pdb
